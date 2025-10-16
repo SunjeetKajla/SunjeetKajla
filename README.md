@@ -65,8 +65,13 @@
   <h2>🏆 Contributions and Streaks 🏆</h2>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla#gh-light-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats)
+<h1 align="center">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla&theme=dark#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla#gh-dark-mode-only" alt="GitHub Streak" />
+  </picture>
+</h1>
 
 <!-- Custom Snake Animation -->
 <div align="center">
