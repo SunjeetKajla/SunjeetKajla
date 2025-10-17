@@ -60,23 +60,39 @@
 
 ---
 
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=SunjeetKajla&show_icons=true&theme=light&hide_border=false#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=SunjeetKajla&show_icons=true&theme=dark&hide_border=false#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SunjeetKajla&show_icons=true&theme=darkt&hide_border=false" alt="GitHub Stats" />
+  </picture>
+
+---
+
 <!-- Streak Stats -->
 <div align="center">
   <h2>🏆 Contributions and Streaks 🏆</h2>
-</div>
-
-<h1 align="center">
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla#gh-light-mode-only" media="(prefers-color-scheme: light)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla&theme=dark#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla#gh-dark-mode-only" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SunjeetKajla&theme=dark" alt="GitHub Streak" />
   </picture>
-</h1>
+</div>
 
 <!-- Custom Snake Animation -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/SunjeetKajla/SunjeetKajla/output/github-snake.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/SunjeetKajla/SunjeetKajla/output/github-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/SunjeetKajla/SunjeetKajla/output/github-snake-dark.svg" alt="GitHub Streak" />
+  </picture>
 </div>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/SunjeetKajla/SunjeetKajla/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/SunjeetKajla/SunjeetKajla/output/github-snake-dark.svg#gh-dark-mode-only)
+---
+
+<div align="center">
+  <h3>✨ “Turning ideas into reality, one line of code at a time.” ✨</h3>
+</div>
