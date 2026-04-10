@@ -64,9 +64,9 @@
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=SunjeetKajla&show_icons=true&theme=light&hide_border=false#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=SunjeetKajla&show_icons=true&theme=dark&hide_border=false#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SunjeetKajla&show_icons=true&theme=darkt&hide_border=false" alt="GitHub Stats" />
+    <source srcset="http://github-readme-stats.tuhidulhossain.com/api/stats?username=SunjeetKajla&show_icons=true#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.tuhidulhossain.com/api/stats?username=SunjeetKajla&theme=dark&show_icons=true#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=SunjeetKajla&theme=dark&show_icons=true" alt="GitHub Stats" />
   </picture>
 
 ---
